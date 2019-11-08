@@ -1,0 +1,19 @@
+/* Autor: Julian Felipe Velasco Lopez */
+body{
+    font: 15px Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #95F574;
+}
+
+.boton1{
+    height: 25px;
+    background: #000000;
+    color: #FFF;
+}
+
+input{
+   border: 2px solid black;
+   margin-bottom: 5px;
+    
+}
